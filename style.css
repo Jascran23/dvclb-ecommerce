@@ -84,7 +84,7 @@ header{
     transition: all 0.3s ease-in-out;
 }
 
-.icon-cart i {
+.icon-cart i:hover{
     transform: scale(1.3);
 }
 
