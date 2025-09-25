@@ -29,7 +29,9 @@ body{
 
 header{
     background-color: var(--white-color);
-    position: sticky;
+    position: fixed;
+    left: 0;
+    right: 0;
     padding: 1rem 2rem;
     display: flex;
     align-items: center;
